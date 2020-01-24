@@ -1,0 +1,4 @@
+Sitemap: https://ddidact.com/sitemapindex.xml
+
+User-Agent: *
+Host: ddidact.com
